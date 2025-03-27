@@ -1,0 +1,15 @@
+D:\CKT5\circleK\src\main\java\com\cgm\circleK\entity\SanhSuGoods.java
+D:\CKT5\circleK\src\main\java\com\cgm\circleK\entity\ThucPhamGoods.java
+D:\CKT5\circleK\src\main\java\com\cgm\circleK\entity\DienMayGoods.java
+D:\CKT5\circleK\src\main\java\com\cgm\circleK\entity\Goods.java
+D:\CKT5\circleK\src\main\java\com\cgm\circleK\database\MSSQLConnection.java
+D:\CKT5\circleK\src\main\java\com\cgm\circleK\usecase\dto\AddGoodsOutputDTO.java
+D:\CKT5\circleK\src\main\java\com\cgm\circleK\database\AddGoodsDAOMSSQL.java
+D:\CKT5\circleK\src\main\java\com\cgm\circleK\usecase\AddGoodsInputBoundary.java
+D:\CKT5\circleK\src\main\java\com\cgm\circleK\database\AddGoodsDAOMemory.java
+D:\CKT5\circleK\src\main\java\com\cgm\circleK\usecase\AddGoodsUseCase.java
+D:\CKT5\circleK\src\main\java\com\cgm\circleK\usecase\dto\AddGoodsInputDTO.java
+D:\CKT5\circleK\src\main\java\com\cgm\circleK\usecase\AddGoodsDatabaseBoundary.java
+D:\CKT5\circleK\src\main\java\com\cgm\circleK\usecase\AddGoodsOutputBoundary.java
+D:\CKT5\circleK\src\main\java\com\cgm\circleK\ui\AddGoodsController.java
+D:\CKT5\circleK\src\main\java\com\cgm\circleK\ui\AddGoodsPresenter.java

@@ -1,0 +1,15 @@
+com\cgm\circleK\entity\Goods.class
+com\cgm\circleK\usecase\AddGoodsInputBoundary.class
+com\cgm\circleK\usecase\AddGoodsDatabaseBoundary.class
+com\cgm\circleK\ui\AddGoodsPresenter.class
+com\cgm\circleK\entity\ThucPhamGoods.class
+com\cgm\circleK\usecase\AddGoodsUseCase.class
+com\cgm\circleK\usecase\dto\AddGoodsInputDTO.class
+com\cgm\circleK\database\AddGoodsDAOMemory.class
+com\cgm\circleK\usecase\AddGoodsOutputBoundary.class
+com\cgm\circleK\entity\DienMayGoods.class
+com\cgm\circleK\entity\SanhSuGoods.class
+com\cgm\circleK\usecase\dto\AddGoodsOutputDTO.class
+com\cgm\circleK\database\AddGoodsDAOMSSQL.class
+com\cgm\circleK\database\MSSQLConnection.class
+com\cgm\circleK\ui\AddGoodsController.class
